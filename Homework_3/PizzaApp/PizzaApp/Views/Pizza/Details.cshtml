@@ -1,0 +1,21 @@
+﻿@using PizzaApp.Models.ViewModels
+@model PizzaViewModel
+
+
+<h2>Details:</h2>
+<p>@ViewBag.PizzaViewModel.PizzaName</p>
+<p>@ViewBag.PizzaViewModel.Price</p>
+<p>@ViewBag.PizzaViewModel.PizzaSize</p>
+
+@{
+    if (Model.IsOnPromotion)
+    {
+        <h4>The pizza is on promotion !</h4>
+    }
+    else
+    {
+        <h4>The pizza is not on promotion !</h4>
+    }
+}
+
+<partial name="~/Views/Shared/Partials/_PizzaDetailsPartial.cshtml" for="@Model"/>

@@ -1,0 +1,12 @@
+﻿@using PizzaApp.Models.Domain
+@model List<User>
+
+
+<h2>Users :</h2>
+
+@{ 
+    foreach(UserDetailsViewModel user in ViewBag.Users)
+            {
+                <p> User :  @user.UserFullName Address : @user.UserAddress</p>
+            }
+}
