@@ -1,0 +1,13 @@
+C:\Users\Elena\OneDrive\Desktop\Homework_5\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.deps.json
+C:\Users\Elena\OneDrive\Desktop\Homework_5\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+C:\Users\Elena\OneDrive\Desktop\Homework_5\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb
+C:\Users\Elena\OneDrive\Desktop\Homework_5\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\Elena\OneDrive\Desktop\Homework_5\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\Elena\OneDrive\Desktop\Homework_5\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Elena\OneDrive\Desktop\Homework_5\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elena\OneDrive\Desktop\Homework_5\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Elena\OneDrive\Desktop\Homework_5\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.AssemblyInfo.cs
+C:\Users\Elena\OneDrive\Desktop\Homework_5\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Elena\OneDrive\Desktop\Homework_5\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.CopyComplete
+C:\Users\Elena\OneDrive\Desktop\Homework_5\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+C:\Users\Elena\OneDrive\Desktop\Homework_5\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb
